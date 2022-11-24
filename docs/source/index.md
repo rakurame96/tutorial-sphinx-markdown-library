@@ -15,4 +15,7 @@ This library is under development
 ```{toctree}
 :caption: 'Contents:'
 :maxdepth: 2
+
+Usage
+Usage2
 ```
