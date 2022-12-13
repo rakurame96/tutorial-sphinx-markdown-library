@@ -18,5 +18,4 @@ This library is under development
 
 Usage
 Usage2
-Usage3
 ```
